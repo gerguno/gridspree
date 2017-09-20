@@ -1,0 +1,19 @@
+body {
+	font-family: "Fakt Pro";
+}
+
+td {
+	padding-right:20px;
+}
+
+#year {
+	padding-left: 100px;
+	text-align: left;
+}
+#company {
+	font-weight: 500;
+}
+
+th {
+	font-size:28px;
+}
